@@ -6,3 +6,4 @@
 
 - I delet the SSH key and try push whether success
 
+- Delet origin and add again, need add ssh key it can be pushed
